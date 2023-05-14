@@ -135,7 +135,7 @@ body
 
 .landing
 {
-    background-image: url(../CAMERA.PNG);
+    background-image: url(/CAMERA.PNG);
     background-size: cover;
     background-position: bottom;
     height: calc(100vh - 64px);
